@@ -1,0 +1,4 @@
+baseURL = 'https://oliviafu.github.io'
+languageCode = 'en-us'
+title = "Olivia's Gallery"
+theme = "gallery"
